@@ -18,4 +18,12 @@ spremiti u u vezanu listu. Način formiranja liste nije bitan, ali se elementi n
 listu.
 Napraviti "novu" vezanu listu koja sadrži sve elemente kao i prethodna, ali u obrnutom redoslijedu. 
 
+*exercise-3*
+
+Napisati program koji generira 20 slučajnih brojeva u opsegu od 10-20 i sprema ih u vezanu listu, po
+redoslijedu generiranja, a ne sortirano.
+a) Korisnik unosi jedan broj i potrebno je iz vezane liste izbrisati sva pojavljivanja tog broja i
+ispisati vezanu listu.
+b) Potrebno je izbrisati sve duple vrijednosti i ispisati vezanu listu. 
+
 
